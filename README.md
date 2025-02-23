@@ -28,6 +28,6 @@ Choose the one that best fits your workflow.
 1. **Clone the repository:**
 
    ```bash
-   git clone: https://github.com/Rajat75-tech/3D-portfolio.git
-   cd 3D-portfolio
+   git clone: https://github.com/Rajat75-tech/myPortfolio.git
+   cd myPortfolio
 
